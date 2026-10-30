@@ -1,0 +1,26 @@
+************* Module parking_system_original
+parking_system_original.py:14:0: C0301: Line too long (110/100) (line-too-long)
+parking_system_original.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+parking_system_original.py:10:0: C0116: Missing function or method docstring (missing-function-docstring)
+parking_system_original.py:10:0: W0102: Dangerous default value [] as argument (dangerous-default-value)
+parking_system_original.py:17:4: W0702: No exception type(s) specified (bare-except)
+parking_system_original.py:20:0: C0116: Missing function or method docstring (missing-function-docstring)
+parking_system_original.py:23:4: W0702: No exception type(s) specified (bare-except)
+parking_system_original.py:26:0: C0116: Missing function or method docstring (missing-function-docstring)
+parking_system_original.py:30:4: W0702: No exception type(s) specified (bare-except)
+parking_system_original.py:33:0: C0116: Missing function or method docstring (missing-function-docstring)
+parking_system_original.py:40:0: C0116: Missing function or method docstring (missing-function-docstring)
+parking_system_original.py:41:4: W0603: Using the global statement (global-statement)
+parking_system_original.py:44:4: W0702: No exception type(s) specified (bare-except)
+parking_system_original.py:43:28: R1732: Consider using 'with' for resource-allocating operations (consider-using-with)
+parking_system_original.py:43:28: W1514: Using open without explicitly specifying an encoding (unspecified-encoding)
+parking_system_original.py:47:0: C0116: Missing function or method docstring (missing-function-docstring)
+parking_system_original.py:48:8: W1514: Using open without explicitly specifying an encoding (unspecified-encoding)
+parking_system_original.py:48:8: R1732: Consider using 'with' for resource-allocating operations (consider-using-with)
+parking_system_original.py:52:0: C0116: Missing function or method docstring (missing-function-docstring)
+parking_system_original.py:52:0: C0103: Function name "setExpiry" doesn't conform to snake_case naming style (invalid-name)
+parking_system_original.py:55:0: C0116: Missing function or method docstring (missing-function-docstring)
+
+-----------------------------------
+Your code has been rated at 6.32/10
+

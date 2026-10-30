@@ -1,0 +1,16 @@
+parking_system_original.py:10:1: E302 expected 2 blank lines, found 1
+parking_system_original.py:14:80: E501 line too long (110 > 79 characters)
+parking_system_original.py:17:5: E722 do not use bare 'except'
+parking_system_original.py:20:1: E302 expected 2 blank lines, found 1
+parking_system_original.py:23:5: E722 do not use bare 'except'
+parking_system_original.py:26:1: E302 expected 2 blank lines, found 1
+parking_system_original.py:28:80: E501 line too long (80 > 79 characters)
+parking_system_original.py:30:5: E722 do not use bare 'except'
+parking_system_original.py:33:1: E302 expected 2 blank lines, found 1
+parking_system_original.py:40:1: E302 expected 2 blank lines, found 1
+parking_system_original.py:44:5: E722 do not use bare 'except'
+parking_system_original.py:47:1: E302 expected 2 blank lines, found 1
+parking_system_original.py:52:1: E302 expected 2 blank lines, found 1
+parking_system_original.py:55:1: E302 expected 2 blank lines, found 1
+parking_system_original.py:63:80: E501 line too long (91 > 79 characters)
+parking_system_original.py:69:1: E305 expected 2 blank lines after class or function definition, found 1
